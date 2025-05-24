@@ -18,6 +18,16 @@
                 "原神"
             ],
             "uuid": "8b9e38fe-c0c4-4e85-abac-30f113da8ab4"
+        },
+        {
+            "name": "vv表情包",
+            "relative_path": "vv表情包",
+            "tags": [
+                "vv",
+                "张维为",
+                "这就是中国"
+            ],
+            "uuid": "7871110a-cbee-4fc4-9606-29c18f99770c"
         }
     ]
 }

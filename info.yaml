@@ -11,4 +11,9 @@ resources:
     relative_path: 原神_BQB
     tags:
       - 原神
-    
+  - name: "vv表情包"
+    relative_path: vv表情包
+    tags:
+      - vv
+      - 张维为
+      - 这就是中国
