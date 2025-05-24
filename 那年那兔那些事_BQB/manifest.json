@@ -1,0 +1,99 @@
+{
+    "name": "那年那兔那些事",
+    "version": "1.0.1",
+    "author": "Community",
+    "description": "none",
+    "created_at": "2025-05-24",
+    "timestamp": 1748097644,
+    "tags": [],
+    "url": "https://raw.githubusercontent.com/MemeMeow-Studio/MemesLib-Community/main/那年那兔那些事_BQB",
+    "update_url": "https://raw.githubusercontent.com/MemeMeow-Studio/MemesLib-Community/main/那年那兔那些事_BQB/manifest.json",
+    "uuid": "c23826ff-9b8e-41d8-acc8-88759b90c4dd",
+    "contents": {
+        "images": {
+            "description": "图像资源目录",
+            "files": {
+                "那年那兔那些事-万箭穿心的痛.jpg": {
+                    "hash": "6456431edfbb5edcfd37c936a3636ec03edb5091eedb22a5ef634e043b6f4415",
+                    "filepath": "那年那兔那些事-万箭穿心的痛.jpg"
+                },
+                "那年那兔那些事-上天不大兄弟.jpg": {
+                    "hash": "f408d5d157d8034cc69761dbef66853a907e455c6fec356ef57f1a151d769919",
+                    "filepath": "那年那兔那些事-上天不大兄弟.jpg"
+                },
+                "那年那兔那些事-不明觉厉.jpg": {
+                    "hash": "62ef13179875fc74196d8b430b13799af07eb303ef0b0d410491fccf735f1c1c",
+                    "filepath": "那年那兔那些事-不明觉厉.jpg"
+                },
+                "那年那兔那些事-不约.jpg": {
+                    "hash": "148269cb3b119c08669be4c69f201cbe6d4b9f9fe32765002dff8f2a1cf8afcd",
+                    "filepath": "那年那兔那些事-不约.jpg"
+                },
+                "那年那兔那些事-世界上没有什么是一发RPG解决不了的如果有就两发.jpg": {
+                    "hash": "722885acfc9d16326438d27bef804e385600ffa2e45a40cfdb39e4ec2b90f2d9",
+                    "filepath": "那年那兔那些事-世界上没有什么是一发RPG解决不了的如果有就两发.jpg"
+                },
+                "那年那兔那些事-你大爷的敢瞧不起我给你整个活儿.jpg": {
+                    "hash": "fe1933cf23d3926b460be4a4f04008b768d96a8bab3bec7bf8555fb628d649f5",
+                    "filepath": "那年那兔那些事-你大爷的敢瞧不起我给你整个活儿.jpg"
+                },
+                "那年那兔那些事-你敢动我试试.png": {
+                    "hash": "894ac77b9454fa611f3462d33ce2503f590ec6d121d638abfa3e6e11dfa95662",
+                    "filepath": "那年那兔那些事-你敢动我试试.png"
+                },
+                "那年那兔那些事-君子之交.jpg": {
+                    "hash": "8c5c3d78e23faa137bab576e48e656c27ad929c8a0837a0782353a6f9d1246ad",
+                    "filepath": "那年那兔那些事-君子之交.jpg"
+                },
+                "那年那兔那些事-咋地啦大兄弟.jpg": {
+                    "hash": "76c61a48cae703444c0d754ae402aae9f16fbf4cef27a36b456b0dc897b51ca7",
+                    "filepath": "那年那兔那些事-咋地啦大兄弟.jpg"
+                },
+                "那年那兔那些事-太不要脸了.jpg": {
+                    "hash": "e16da6d5d756c05e09beffe7b6db119a5e7b448a7ced0328dc284032b501298e",
+                    "filepath": "那年那兔那些事-太不要脸了.jpg"
+                },
+                "那年那兔那些事-对面那个兔子最坏了.jpg": {
+                    "hash": "afbc2c6d290da2155e98f031b979941e34a08b60dd62d32bbaa6bccdc3b0d1df",
+                    "filepath": "那年那兔那些事-对面那个兔子最坏了.jpg"
+                },
+                "那年那兔那些事-居然还卖这么贵还要不要阶级友谊啦.gif": {
+                    "hash": "b9abdc4246713f8e6091ac8258d16dca4f1a7ddb7539a6971d58b922c798b34f",
+                    "filepath": "那年那兔那些事-居然还卖这么贵还要不要阶级友谊啦.gif"
+                },
+                "那年那兔那些事-怎么了不要紧吧.jpg": {
+                    "hash": "a0228ce4efde4b52105c2ba82f72b90b8464e07579f223dd1b0df5b18e9b5aa1",
+                    "filepath": "那年那兔那些事-怎么了不要紧吧.jpg"
+                },
+                "那年那兔那些事-感受共产主义最亲切的问候吧.jpeg": {
+                    "hash": "c6c8ec837a70ea62f0432c21efa99cdbd54a835d23de149fc971b604e8ac0445",
+                    "filepath": "那年那兔那些事-感受共产主义最亲切的问候吧.jpeg"
+                },
+                "那年那兔那些事-我会儿坐上我们自己的航母指挥位.jpeg": {
+                    "hash": "83eae03c2cc2b3c968a2c5c595be65f2230d75cb17b42b4c6a8da5040c54cc44",
+                    "filepath": "那年那兔那些事-我会儿坐上我们自己的航母指挥位.jpeg"
+                },
+                "那年那兔那些事-战争的结局毫无悬念.png": {
+                    "hash": "50fc4ed62cbd0a84eb06fea4fdfa118edbcf96d2969bdc5eb2134ab328ef85e5",
+                    "filepath": "那年那兔那些事-战争的结局毫无悬念.png"
+                },
+                "那年那兔那些事-瞧不起.png": {
+                    "hash": "fb4678a66897c825089949d529373540957f13eaf7aa86d4eeddce029df54556",
+                    "filepath": "那年那兔那些事-瞧不起.png"
+                },
+                "那年那兔那些事-耐操.png": {
+                    "hash": "64df45d4b8abe0bec4cadb0726afa4226b5ae2b1fab41fa932bfdd707541fdfa",
+                    "filepath": "那年那兔那些事-耐操.png"
+                },
+                "那年那兔那些事-这是你最喜欢的白桦林哦.jpeg": {
+                    "hash": "7906ed21aee88ce38306294d76c5269c938a940fbbc36f09ab7bda7757f117ed",
+                    "filepath": "那年那兔那些事-这是你最喜欢的白桦林哦.jpeg"
+                },
+                "那年那兔那些事-鹰酱一个能打的都没有-美国-斧头.gif": {
+                    "hash": "66ac5ede5ccb7407cc0d1dcc7b8b14d4373d1e385d9d032ef06d653a191b6660",
+                    "filepath": "那年那兔那些事-鹰酱一个能打的都没有-美国-斧头.gif"
+                }
+            }
+        }
+    }
+}

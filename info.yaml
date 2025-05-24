@@ -1,0 +1,14 @@
+# 手动编辑该文件
+author: Community
+version: 1.0.1
+resource_url: "https://raw.githubusercontent.com/MemeMeow-Studio/MemesLib-Community/main/"
+resources:
+  - name: "那年那兔那些事"
+    relative_path: 那年那兔那些事_BQB
+    tags:
+      - 那年那兔那些事
+  - name: "原神"
+    relative_path: 原神_BQB
+    tags:
+      - 原神
+    

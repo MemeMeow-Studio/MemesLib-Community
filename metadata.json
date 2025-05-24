@@ -1,0 +1,23 @@
+{
+    "author": "Community",
+    "version": "1.0.1",
+    "resource_url": "https://raw.githubusercontent.com/MemeMeow-Studio/MemesLib-Community/main/",
+    "resources": [
+        {
+            "name": "那年那兔那些事",
+            "relative_path": "那年那兔那些事_BQB",
+            "tags": [
+                "那年那兔那些事"
+            ],
+            "uuid": "c23826ff-9b8e-41d8-acc8-88759b90c4dd"
+        },
+        {
+            "name": "原神",
+            "relative_path": "原神_BQB",
+            "tags": [
+                "原神"
+            ],
+            "uuid": "8b9e38fe-c0c4-4e85-abac-30f113da8ab4"
+        }
+    ]
+}
