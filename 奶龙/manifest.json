@@ -1,0 +1,43 @@
+{
+    "name": "奶龙表情包",
+    "version": "1.0.1",
+    "author": "Community",
+    "description": "none",
+    "created_at": "2025-05-25",
+    "timestamp": 1748165055,
+    "tags": [],
+    "url": "https://raw.githubusercontent.com/MemeMeow-Studio/MemesLib-Community/main/奶龙",
+    "update_url": "https://raw.githubusercontent.com/MemeMeow-Studio/MemesLib-Community/main/奶龙/manifest.json",
+    "uuid": "4b08b14b-0a74-4477-be7a-3fb46bdfaf5b",
+    "contents": {
+        "images": {
+            "description": "图像资源目录",
+            "files": {
+                "奶龙-哇.gif": {
+                    "hash": "6bdf79c3b19600de36c2d73d9a524127dc2c03fb5f1316fd80a4edf4f82cd778",
+                    "filepath": "奶龙-哇.gif"
+                },
+                "奶龙-害怕.jpg": {
+                    "hash": "c795d66b354713a90ae315abf9fcc6a6b6ec22795069b6cbc9d5bb8920ede0d8",
+                    "filepath": "奶龙-害怕.jpg"
+                },
+                "奶龙-坐上奶龙巴士.jpg": {
+                    "hash": "bf525e72f30a061c928536ec0dfb2194163a63dc66749c18b7127c3dfbda3696",
+                    "filepath": "奶龙-坐上奶龙巴士.jpg"
+                },
+                "奶龙-欢迎新唐龙.jpg": {
+                    "hash": "2e3bf5eee9543926a5c46d33cb777b9ee34afaf65465f1b0b46648a184ad1f41",
+                    "filepath": "奶龙-欢迎新唐龙.jpg"
+                },
+                "奶龙-大笑.gif": {
+                    "hash": "bc069ff55f30cce7ca9fc1030b6e531959659c5eab8d614cdb5bb8199e53a3dd",
+                    "filepath": "奶龙-大笑.gif"
+                },
+                "奶龙红领巾-吃惊.jpg": {
+                    "hash": "e48e909ed57ff47e84e6c402a759e744cfd3065e44c22b91a1e52a0357f86fbf",
+                    "filepath": "奶龙红领巾-吃惊.jpg"
+                }
+            }
+        }
+    }
+}
