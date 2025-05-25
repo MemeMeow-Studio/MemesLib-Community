@@ -9,8 +9,12 @@ on:
 #   schedule:
 #     - cron: '0 4 * * *'  # 每天 UTC 时间 4:00 运行（北京时间 12:00）
 
+
 jobs:
   run-and-commit:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
 
     steps:
