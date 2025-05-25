@@ -17,3 +17,8 @@ resources:
       - vv
       - 张维为
       - 这就是中国
+  - name: 奶龙表情包
+    relative_path: 奶龙
+    tags:
+      - 奶龙
+      - 唐
