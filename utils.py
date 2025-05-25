@@ -6,7 +6,8 @@ import pickle
 import random
 from typing import List, Optional, Union
 import numpy as np
-
+workcmd = os.path.dirname(os.path.abspath(__file__))
+os.chdir(workcmd)
 
 
 

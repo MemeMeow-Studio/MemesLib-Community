@@ -2,6 +2,8 @@ import yaml
 import json
 import uuid
 import os
+workcmd = os.path.dirname(os.path.abspath(__file__))
+os.chdir(workcmd)
 
 def generate_uuid():
     """生成UUID并返回字符串形式"""

@@ -4,10 +4,10 @@ import shutil
 import zipfile
 from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Optional
-
 from tqdm import tqdm
-
 from utils import *
+workcmd = os.path.dirname(os.path.abspath(__file__))
+os.chdir(workcmd)
 
 class ResourcePackError(Exception):
     def __init__(self, *args: object) -> None:
@@ -132,10 +132,8 @@ class ResourcePackService:
             raise ResourcePackError(f"创建manifest.json失败: {str(e)}")
             
         return pack_dir
-    
        
-       
-with open(r".\metadata.json", "r", encoding="utf-8") as f:
+with open(r"./metadata.json", "r", encoding="utf-8") as f:
     metadata = json.load(f)
     metadata: dict
 for resource in metadata['resources']:

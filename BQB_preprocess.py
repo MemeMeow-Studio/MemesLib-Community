@@ -54,8 +54,8 @@ def main():
     """
     # 在这里指定要处理的文件夹路径
     folders = [
-        r".\原神_BQB",
-        r".\那年那兔那些事_BQB"
+        r"./原神_BQB",
+        r"./那年那兔那些事_BQB"
         # 添加更多文件夹路径
         # r"C:\path\to\another\folder",
     ]
